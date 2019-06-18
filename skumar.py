@@ -1,1 +1,1 @@
-print(Welocom git!")
+print(Welocom to git!")
