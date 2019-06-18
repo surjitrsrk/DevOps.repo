@@ -1,1 +1,1 @@
-(print("Welcome To Git!")
+print("Welcome To Git!")
